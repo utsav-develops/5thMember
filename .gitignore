@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs & Data
+*.log
+*.sqlite3
+*.db
+
+# Qdrant / Ollama Docker data
+qdrant_storage/
+ollama_storage/
+
+# Credentials
+*.pem
+*.key
+*.crt
