@@ -5,6 +5,9 @@ It acts as your team’s quiet 5th member — listening, learning, and respondin
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e274c6e6-deed-4fec-94e2-5a9f113d4fe0" style="border-radius:12px;" />
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9bd5fdf9-167c-422c-b477-ff5922952737" style="border-radius:12px;" />
+
+
 ---
 
 ## Features
