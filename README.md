@@ -3,6 +3,8 @@
 **5th Member** is a self-hosted conversational AI stack that remembers over time using **Ollama**, **Qdrant**, and **FastAPI**.  
 It acts as your team’s quiet 5th member — listening, learning, and responding with context-aware intelligence.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e274c6e6-deed-4fec-94e2-5a9f113d4fe0" style="border-radius:12px;" />
+
 ---
 
 ## Features
