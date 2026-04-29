@@ -204,7 +204,7 @@ QDRANT_COLLECTION=memories
 
 ## 📜 License
 
-**MIT License © 2025 — Created by Utsav Acharya**
+**MIT License © 2025 — Created by utsav-develops**
 
 > “The best teammate never sleeps — it just keeps learning.”
 
